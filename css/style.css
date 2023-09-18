@@ -60,6 +60,7 @@ div.blue {
     margin-right: 50px;
     border-bottom: 2px;
     border-right: 5px;
+    overflow: scroll;
 }
 
 p.blue {
